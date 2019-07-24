@@ -1,0 +1,207 @@
+ 
+Connected
+
+delmont-fw01 # get sys stat
+Version: FortiGate-60E v6.0.4,build0231,190107 (GA)
+Virus-DB: 70.00161(2019-07-22 05:19)
+Extended DB: 70.00161(2019-07-22 05:19)
+IPS-DB: 14.00656(2019-07-19 17:06)
+IPS-ETDB: 0.00000(2001-01-01 00:00)
+APP-DB: 14.00655(2019-07-19 02:32)
+INDUSTRIAL-DB: 6.00741(2015-12-01 02:30)
+Serial-Number: FGT60ETK19024753
+IPS Malicious URL Database: 2.00365(2019-07-21 21:57)
+Botnet DB: 4.00515(2019-07-02 10:00)
+BIOS version: 05000012
+System Part-Number: P18816-03
+Log hard disk: Not available
+Hostname: delmont-fw01
+Operation Mode: NAT
+Current virtual domain: root
+Max number of virtual domains: 10
+Virtual domains status: 1 in NAT mode, 0 in TP mode
+Virtual domain configuration: disable
+FIPS-CC mode: disable
+Current HA mode: standalone
+Branch point: 0231
+Release Version Information: GA
+System time: Mon Jul 22 08:16:33 2019
+ 
+delmont-fw01 #  di sys fl li
+Partition  Image                                     TotalSize(KB)  Used(KB)  Use%  Active
+1          FGT60E-6.00-FW-build0231-190107                  253920     74500   29%  Yes   
+3          ETDB-70.00161                                   3021708     92192    3%  No    
+Image build at Jan  7 2019 17:32:06 for b0231
+ 
+delmont-fw01 # 
+delmont-fw01 # di autoupdate ver
+ 
+AV Engine
+---------
+Version: 6.00019
+Contract Expiry Date: Tue Dec  3 2019
+Last Updated using manual update on Wed Oct 17 22:36:00 2018
+Last Update Attempt: Mon Jul 22 06:53:33 2019
+Result: No Updates
+ 
+Virus Definitions
+---------
+Version: 70.00161
+Contract Expiry Date: Tue Dec  3 2019
+Last Updated using scheduled update on Mon Jul 22 06:53:33 2019
+Last Update Attempt: Mon Jul 22 06:53:33 2019
+Result: Updates Installed
+ 
+Extended set
+---------
+Version: 70.00161
+Contract Expiry Date: Tue Dec  3 2019
+Last Updated using scheduled update on Mon Jul 22 06:53:33 2019
+Last Update Attempt: Mon Jul 22 06:53:33 2019
+Result: Updates Installed
+ 
+Mobile Malware Definitions
+---------
+Version: 70.00161
+Contract Expiry Date: Tue Dec  3 2019
+Last Updated using scheduled update on Mon Jul 22 06:53:33 2019
+Last Update Attempt: Mon Jul 22 06:53:33 2019
+Result: Updates Installed
+ 
+IPS Attack Engine
+---------
+Version: 4.00029
+Contract Expiry Date: Tue Dec  3 2019
+Last Updated using manual update on Fri Nov 16 20:36:00 2018
+Last Update Attempt: Mon Jul 22 06:53:33 2019
+Result: No Updates
+ 
+Attack Definitions
+---------
+Version: 14.00656
+Contract Expiry Date: Tue Dec  3 2019
+Last Updated using scheduled update on Fri Jul 19 12:53:43 2019
+Last Update Attempt: Mon Jul 22 06:53:33 2019
+Result: No Updates
+ 
+Attack Extended Definitions
+---------
+Version: 0.00000
+Contract Expiry Date: Tue Dec  3 2019
+Last Updated using manual update on Mon Jan  1 00:00:00 2001
+Last Update Attempt: n/a
+Result: Updates Installed
+ 
+Application Definitions
+---------
+Version: 14.00655
+Contract Expiry Date: Tue Dec  3 2019
+Last Updated using scheduled update on Thu Jul 18 22:54:37 2019
+Last Update Attempt: Mon Jul 22 06:53:33 2019
+Result: No Updates
+ 
+Industrial Attack Definitions
+---------
+Version: 6.00741
+Contract Expiry Date: n/a
+Last Updated using manual update on Tue Dec  1 02:30:00 2015
+Last Update Attempt: Mon Jul 22 06:53:33 2019
+Result: Unauthorized
+ 
+IPS Malicious URL Database
+---------
+Version: 2.00365
+Contract Expiry Date: Tue Dec  3 2019
+Last Updated using scheduled update on Sun Jul 21 22:53:50 2019
+Last Update Attempt: Mon Jul 22 06:53:33 2019
+Result: No Updates
+ 
+Flow-based Virus Definitions
+---------
+Version: 70.00161
+Contract Expiry Date: Tue Dec  3 2019
+Last Updated using scheduled update on Mon Jul 22 06:53:33 2019
+Last Update Attempt: Mon Jul 22 06:53:33 2019
+Result: Updates Installed
+ 
+Botnet Definitions
+---------
+Version: 4.00515
+Contract Expiry Date: Tue Dec  3 2019
+Last Updated using scheduled update on Wed Jul 17 10:53:44 2019
+Last Update Attempt: Mon Jul 22 06:53:33 2019
+Result: No Updates
+ 
+Botnet Domain Database
+---------
+Version: 2.00287
+Contract Expiry Date: Tue Dec  3 2019
+Last Updated using scheduled update on Fri Jul 19 14:54:17 2019
+Last Update Attempt: Mon Jul 22 06:53:33 2019
+Result: No Updates
+ 
+Internet-service Database Apps
+---------
+Version: 7.00007
+Contract Expiry Date: n/a
+Last Updated using scheduled update on Fri Jul 19 14:54:17 2019
+Last Update Attempt: Mon Jul 22 06:53:33 2019
+Result: No Updates
+ 
+Internet-service Database Maps
+---------
+Version: 7.00007
+Contract Expiry Date: n/a
+Last Updated using scheduled update on Fri Jul 19 14:54:17 2019
+Last Update Attempt: Mon Jul 22 06:53:33 2019
+Result: No Updates
+ 
+Device and OS Identification
+---------
+Version: 1.00079
+Contract Expiry Date: Tue Dec  3 2019
+Last Updated using scheduled update on Wed Jul 17 10:53:44 2019
+Last Update Attempt: Mon Jul 22 06:53:33 2019
+Result: No Updates
+ 
+URL White list
+---------
+Version: 2.00473
+Contract Expiry Date: Tue Dec  3 2019
+Last Updated using scheduled update on Sun Jul 21 12:53:45 2019
+Last Update Attempt: Mon Jul 22 06:53:33 2019
+Result: No Updates
+ 
+IP Geography DB
+---------
+Version: 2.00037
+Contract Expiry Date: n/a
+Last Updated using scheduled update on Wed Jul 17 10:53:44 2019
+Last Update Attempt: Mon Jul 22 06:53:33 2019
+Result: No Updates
+ 
+Certificate Bundle
+---------
+Version: 1.00013
+Contract Expiry Date: n/a
+Last Updated using manual update on Thu Aug  9 10:21:00 2018
+Last Update Attempt: Mon Jul 22 06:53:33 2019
+Result: No Updates
+ 
+Modem List
+---------
+Version: 0.000
+ 
+FortiGuard Security Rating
+---------
+Version: 1.00019
+Contract Expiry Date: n/a
+Last Updated using manual update on Fri Dec  7 10:56:00 2018
+Last Update Attempt: Mon Jul 22 06:53:33 2019
+Result: Unauthorized
+ 
+FDS Address
+---------
+173.243.138.91:443
+ 
+ 
